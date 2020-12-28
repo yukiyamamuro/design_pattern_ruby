@@ -1,4 +1,4 @@
-require './template_method/recommend'
+require './1.template_method/recommend'
 
 class HtmlRecommend < Recommend
   def output_start
