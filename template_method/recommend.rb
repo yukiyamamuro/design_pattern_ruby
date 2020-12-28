@@ -1,7 +1,7 @@
 class Recommend
   def initialize
-    @title = 'オススメ'
-    @text = ['今月のオススメ', 'オススメ']
+    @title = '今月のオススメ'
+    @text = ['オススメ1', 'オススメ2']
   end
 
   def output_recommend
