@@ -3,3 +3,5 @@
 - Template Method
 
 - Strategy
+
+- Observer
