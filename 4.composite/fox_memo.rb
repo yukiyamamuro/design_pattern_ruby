@@ -1,3 +1,5 @@
+# メインの実装とは関係ありません
+
 require 'rubygems'
 require 'fox16'
 
