@@ -8,6 +8,8 @@
 
 - Composite
 
+- Iterator
+
 
 # 参考文献
 Rubyによるデザインパターン
