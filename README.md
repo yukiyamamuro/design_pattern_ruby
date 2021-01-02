@@ -10,6 +10,7 @@
 
 - Iterator
 
+- Command
 
 # 参考文献
 Rubyによるデザインパターン
